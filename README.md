@@ -172,3 +172,35 @@ Aligning on calculation logic and formulas used in reporting
 Ensuring all definitions and rules are reviewed and approved by relevant stakeholders
 
 By formalising data definitions and calculation logic, the solution reduces misinterpretation, ensures consistency in outputs, and strengthens alignment between business and technical implementation.
+
+🔸 3. Data Validation & Quality Controls (UPDATED — use this)
+
+A key component of the solution is the implementation of validation and control mechanisms to ensure data quality and reliability.
+
+Validation is designed to occur upfront during data ingestion and processing, rather than after final report generation. This ensures that errors are identified early, reducing rework and preventing incorrect outputs from being produced.
+
+The solution incorporates:
+
+Mandatory field checks to ensure completeness
+Format validation (e.g. dates, numeric fields)
+Reconciliation checks to identify mismatches
+Duplicate detection
+Real-time error handling, where invalid records are immediately flagged and isolated
+
+By shifting validation earlier in the process, the solution enables faster issue resolution and improves overall process efficiency and reliability.
+
+In addition, the solution is designed to be future-ready and adaptable to changing regulatory and business requirements.
+
+This is supported through:
+
+Use of standardised templates and configurable rules, allowing updates without redesigning the entire process
+Clear versioning of validation logic and reporting standards
+Ability to indicate whether outputs are aligned with current or previous standards, ensuring transparency
+
+For example, in case of regulatory updates (such as evolving standards like the EU AI Act), the system can continue to generate reports while clearly indicating the applicable standard version. This allows stakeholders to:
+
+Maintain audit readiness and reporting continuity
+Plan and implement changes in a controlled and approved manner
+Gradually transition to updated standards without disrupting operations
+
+This approach ensures that the solution is not only accurate and controlled, but also resilient to change and aligned with long-term governance requirements.
