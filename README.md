@@ -13,6 +13,9 @@ This scenario serves as the foundation for demonstrating how such processes can 
 
 
 
+
+
+
 🔹 Problem Statement 
 
 The current month-end finance reporting and reconciliation process is largely manual, time-consuming, and fragmented across different teams and domains.
@@ -36,5 +39,23 @@ Limited traceability and auditability, making it difficult to track changes and 
 High dependency on manual interventions, increasing operational risk
 
 In a regulated financial environment, these challenges not only impact efficiency but also pose risks related to data accuracy, governance, and compliance.
-
 This highlights the need for a structured approach to identify automation opportunities, standardise data handling, and introduce governance and control mechanisms to enable scalable and reliable finance operations.
+
+
+
+🔹 Automation Opportunity Identification & Assessment
+Based on the current-state analysis, multiple opportunities for automation can be identified within the finance reporting process.
+
+Instead of automating the entire process blindly, a structured approach is required to evaluate where automation would deliver the highest value while maintaining control and governance.
+
+The following key areas were assessed for automation potential:
+
+| Process Step       | Current Challenge                      | Automation Potential | Expected Impact                         |
+| ------------------ | -------------------------------------- | -------------------- | --------------------------------------- |
+| Data Collection    | Multiple sources, inconsistent formats | High                 | Reduced manual effort & standardisation |
+| Data Consolidation | Manual merging in Excel                | High                 | Faster processing & reduced errors      |
+| Data Validation    | Manual checks & reconciliation         | High                 | Improved data quality & consistency     |
+| Communication      | Email-based coordination               | Medium               | Reduced delays                          |
+| Final Reporting    | Manual report generation               | Medium               | Standardised outputs                    |
+
+
