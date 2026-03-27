@@ -19,6 +19,12 @@ The current month-end finance reporting and reconciliation process is largely ma
 
 Data is sourced from multiple systems and files, often in inconsistent formats, requiring significant manual effort for consolidation, validation, and reporting. This leads to inefficiencies, delays, and a high dependency on individual users.
 
+## Current-State Process
+
+![Current Process](./images/current_state_process.png)
+
+*Figure: Manual finance reporting process highlighting inefficiencies and fragmentation*
+
 Key challenges observed in the process include:
 
 Manual and repetitive tasks such as data extraction, copying, and reconciliation
