@@ -132,15 +132,4 @@ Better alignment with enterprise architecture
 *Figure: Automated and structured finance reporting process with validation and governance layers*
 
 The proposed solution introduces a structured and automated workflow:
-
-Data Ingestion Layer
-Standardised input from multiple sources
-Data Processing & Consolidation Layer
-Automated merging and structuring of data
-Validation & Control Layer
-Rule-based validation checks
-Exception handling mechanism
-Output & Reporting Layer
-Standardised and consistent reporting output
-Review & Approval Layer
-Controlled human validation before finalisation
+Data Ingestion Layer, Standardised input from multiple sources, Data Processing & Consolidation Layer, Automated merging and structuring of data ,Validation & Control Layer,Rule-based validation checks,Exception handling mechanism , Output & Reporting Layer, Standardised and consistent reporting output, Review & Approval Layer & Controlled human validation before finalisation
