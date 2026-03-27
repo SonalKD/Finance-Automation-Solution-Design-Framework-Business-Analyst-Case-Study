@@ -133,3 +133,24 @@ Better alignment with enterprise architecture
 
 The proposed solution introduces a structured and automated workflow:
 Data Ingestion Layer, Standardised input from multiple sources, Data Processing & Consolidation Layer, Automated merging and structuring of data ,Validation & Control Layer,Rule-based validation checks,Exception handling mechanism , Output & Reporting Layer, Standardised and consistent reporting output, Review & Approval Layer & Controlled human validation before finalisation
+
+
+
+
+
+🔹 Data & Governance Framework
+🔸 1. Data Perspective 
+
+In finance processes, automation is only as reliable as the underlying data — incorrect or incomplete input will directly result in unreliable outputs.
+
+Therefore, ensuring data quality at the source is critical. This requires not only validation mechanisms within the system, but also clear ownership and accountability for the data being provided.
+
+Designated data owners are responsible for:
+
+Ensuring the accuracy and completeness of input data
+Providing justification or correction for missing or inconsistent values
+Understanding how the data is processed and used downstream
+
+Additionally, a feedback mechanism is essential to ensure continuous alignment. In case of any changes in data structure, definitions, or business logic, data owners are expected to proactively inform relevant stakeholders, enabling timely updates to the automation logic and maintaining consistency across the process.
+
+This approach ensures that data quality is not treated as a downstream issue, but is managed at the source, supporting reliable and scalable automation.
