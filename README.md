@@ -127,6 +127,10 @@ Improved traceability and auditability
 Better alignment with enterprise architecture
 
 🔸 4. High-Level Solution Design
+
+<img width="1024" height="1536" alt="future_state_process" src="https://github.com/user-attachments/assets/b25fa364-4e49-493c-b5b0-fca49c5e9b27" />
+*Figure: Automated and structured finance reporting process with validation and governance layers*
+
 The proposed solution introduces a structured and automated workflow:
 
 Data Ingestion Layer
