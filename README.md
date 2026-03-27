@@ -59,3 +59,12 @@ The following key areas were assessed for automation potential:
 | Final Reporting    | Manual report generation               | Medium               | Standardised outputs                    |
 
 
+To prioritise automation efforts, each step was evaluated based on:
+
+Business impact (time saved, risk reduction)
+Complexity of implementation
+Data dependency and availability
+Control and governance requirements
+
+Based on this assessment, data consolidation and validation were identified as the highest-priority candidates for automation, as they offer significant efficiency gains while improving data quality and control.
+
