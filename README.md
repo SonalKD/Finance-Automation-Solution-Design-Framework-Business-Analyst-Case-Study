@@ -68,3 +68,30 @@ Control and governance requirements
 
 Based on this assessment, data consolidation and validation were identified as the highest-priority candidates for automation, as they offer significant efficiency gains while improving data quality and control.
 
+
+
+
+🔹 Solution Approach Perspective
+
+In practice, the choice between low-code and strategic solutions is not about which is better, but about what is most appropriate for the given context.
+
+Low-code solutions are typically preferred in scenarios where:
+
+The business requires a quick turnaround and cannot wait for a full development cycle
+There is uncertainty around requirements and a need to validate the solution approach
+The use case is limited in scope, such as small reporting needs or processes used by a smaller user group
+Cost and prioritisation do not justify investing in a full-scale strategic solution
+
+For example, a simple reporting use case used by a few users may not require a fully engineered solution and can be effectively addressed using low-code tools.
+
+However, for core finance processes that involve multiple data sources, increasing data volumes, and strong governance requirements, a strategic solution approach is more suitable.
+
+Technologies such as Python-based workflows or system integrations enable:
+
+Scalability to handle growing data and cross-domain processes
+Centralised and reusable logic, reducing inconsistencies
+Stronger validation and control mechanisms, supporting data quality and auditability
+Better alignment with enterprise architecture and long-term sustainability
+
+Therefore, low-code solutions can be used to quickly realise value and validate use cases, while strategic solutions are preferred for building robust, scalable, and governed systems in the long term.
+
