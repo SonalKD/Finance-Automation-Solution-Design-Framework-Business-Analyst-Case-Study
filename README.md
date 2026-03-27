@@ -22,7 +22,7 @@ Data is sourced from multiple systems and files, often in inconsistent formats, 
 ## Current-State Process
 <img width="1024" height="1536" alt="current_state_process" src="https://github.com/user-attachments/assets/4f63e5de-d1b3-49f0-83de-556e5ed6901e" />
 
-![Current Process](./images/current_state_process.png)
+
 
 *Figure: Manual finance reporting process highlighting inefficiencies and fragmentation*
 
