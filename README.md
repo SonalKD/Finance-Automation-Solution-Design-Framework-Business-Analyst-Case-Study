@@ -173,7 +173,7 @@ Ensuring all definitions and rules are reviewed and approved by relevant stakeho
 
 By formalising data definitions and calculation logic, the solution reduces misinterpretation, ensures consistency in outputs, and strengthens alignment between business and technical implementation.
 
-🔸 3. Data Validation & Quality Controls (UPDATED — use this)
+🔸 3. Data Validation & Quality Controls 
 
 A key component of the solution is the implementation of validation and control mechanisms to ensure data quality and reliability.
 
