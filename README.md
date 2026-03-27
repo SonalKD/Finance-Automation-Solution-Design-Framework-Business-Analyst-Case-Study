@@ -95,3 +95,48 @@ Better alignment with enterprise architecture and long-term sustainability
 
 Therefore, low-code solutions can be used to quickly realise value and validate use cases, while strategic solutions are preferred for building robust, scalable, and governed systems in the long term.
 
+🔹 Solution Design & Fit-for-Purpose Decision
+🔸 1. Solution Approach Overview
+
+Based on the identified automation opportunities, the next step is to determine the most suitable solution approach.
+
+In a finance environment, it is important to balance speed of delivery, scalability, and governance requirements when selecting between low-code and strategic solutions.
+
+🔸 2. Decision Framework
+
+| Criteria                | Low-Code Solution (e.g. Power BI / Alteryx) | Strategic Solution (e.g. Python / API / System Integration) |
+| ----------------------- | ------------------------------------------- | ----------------------------------------------------------- |
+| Speed of Implementation | High                                        | Medium                                                      |
+| Scalability             | Limited                                     | High                                                        |
+| Flexibility             | Medium                                      | High                                                        |
+| Governance & Control    | Medium                                      | High                                                        |
+| Maintenance             | Medium                                      | Structured & scalable                                       |
+| Suitability             | Short-term / quick wins                     | Long-term / enterprise solutions                            |
+
+🔸 3. Final Decision 
+
+Based on the evaluation, a strategic solution approach is recommended for the core components of the process, particularly for data consolidation and validation.
+
+While low-code solutions can provide quick wins, they may not be sufficient for handling increasing data volumes, standardisation across domains, and governance requirements in the long term.
+
+A strategic solution enables:
+
+Scalable data processing
+Centralised validation logic
+Improved traceability and auditability
+Better alignment with enterprise architecture
+
+🔸 4. High-Level Solution Design
+The proposed solution introduces a structured and automated workflow:
+
+Data Ingestion Layer
+Standardised input from multiple sources
+Data Processing & Consolidation Layer
+Automated merging and structuring of data
+Validation & Control Layer
+Rule-based validation checks
+Exception handling mechanism
+Output & Reporting Layer
+Standardised and consistent reporting output
+Review & Approval Layer
+Controlled human validation before finalisation
