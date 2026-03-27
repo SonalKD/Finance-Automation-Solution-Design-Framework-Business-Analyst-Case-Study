@@ -154,3 +154,21 @@ Understanding how the data is processed and used downstream
 Additionally, a feedback mechanism is essential to ensure continuous alignment. In case of any changes in data structure, definitions, or business logic, data owners are expected to proactively inform relevant stakeholders, enabling timely updates to the automation logic and maintaining consistency across the process.
 
 This approach ensures that data quality is not treated as a downstream issue, but is managed at the source, supporting reliable and scalable automation.
+
+🔸 2. Data Structuring
+
+To support automation, data from multiple sources is standardised into a consistent and structured format. This includes:
+
+Defining common data fields across domains
+Ensuring consistent naming conventions and formats
+Aligning data to a structured model for processing and reporting
+
+In addition to structuring the data, it is essential to establish clear and agreed data definitions to avoid ambiguity and ensure consistency across teams.
+
+This involves:
+
+Defining business meaning for each data element
+Aligning on calculation logic and formulas used in reporting
+Ensuring all definitions and rules are reviewed and approved by relevant stakeholders
+
+By formalising data definitions and calculation logic, the solution reduces misinterpretation, ensures consistency in outputs, and strengthens alignment between business and technical implementation.
